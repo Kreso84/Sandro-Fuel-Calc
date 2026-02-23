@@ -6,7 +6,7 @@ st.set_page_config(page_title="Sandro Fuel Calc", page_icon="⛽")
 
 # Glavni naslov prema tvojoj želji
 st.title("⛽ Da Sandro ne ostane bez goriva")
-st.subheader("Službeni kalkulator za Kresija i ekipu")
+st.subheader("Službeni alat za preživljavanje na stazi. Razvijeno jer nam je dosadilo gledati Sandra kako gura auto zadnjih 500 metara. 🏁")
 
 st.markdown("---")
 
